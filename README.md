@@ -1,6 +1,7 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/_8yXOlwa)
 # Exam #2: "Posti Aereo"
-## Student: s309864 DALIA VINCENZO 
+## Student: DALIA VINCENZO 
+La seguente web app è stata sviluppata per l'esame di Web Application, il focus non è sul fattore estetico ma sulle funzionalità e la gestione delle prenotazioni in modo
+effficace. In quanto si tratta di una simulazione di prenotazione, non è prevista la gestione dei pagamenti.
 
 ## React Client Application Routes
 
